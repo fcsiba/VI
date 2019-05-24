@@ -1,2 +1,2 @@
-# VI
-FYP Fall 2018:
+# Voice Intelligence (VI):
+An audio analytics tool that helps businesses make better decisions regarding customer support and marketing campaigns. The languages we currently support for Urdu and English.
