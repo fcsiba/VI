@@ -23,5 +23,5 @@ After the dependencies have been installed, you will need to follow these steps 
 2. Open cmd and type the commmand: ```cd D:\Voice Intelligence\```.
 3. Type the command: ```set FLASK_APP=main.py```.
 4. Type the command: ```flask run```.
-5. Open your browser and visit the URL: http://127.0.0.1:5000/demo.
+5. Open your browser and visit the URL: http://127.0.0.1:5000/.
 
